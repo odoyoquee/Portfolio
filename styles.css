@@ -1,0 +1,139 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("images/als.jpg");
+    background-attachment: fixed;
+    font-size: large;
+    height:100%;
+    background-position: center;
+    background-size: cover;
+ 
+}
+header{
+    background-image: url('images/unip.jpg');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border-radius: 8px;
+    
+}
+
+nav{
+    text-align: right;
+    background-color: white;
+    opacity: 0.5;
+    padding: 0.5px;
+    border-radius: 8px;
+}
+
+nav>ul>li>a{
+    text-decoration: honeydew;
+    text-transform: uppercase;
+    padding: 18px;
+    color:red;
+}
+
+
+ul>li{
+    display: inline-block;
+    color:black;
+}
+
+nav>ul>li>a:hover{
+    background-color: black;
+    border-radius: 10px;
+    opacity: 0.6;
+}
+h1{
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+footer{
+    text-align: center;
+    bottom: 0;
+    background-color: blue;
+    opacity: 0.7;
+    width: 25%;
+    height:auto;
+    margin-left: 35%;
+    border-radius: 18px;
+    position: fixed;
+    color: rgb(233, 221, 221);
+}
+#para{
+    background-color: grey;
+    height: 40%;
+    width: 50%;
+    margin-left: 400px;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+#img{
+    height:400px;
+    width: 80%;
+    margin-left: 10%;
+}
+h2{
+    margin-left:100px;
+    text-transform: uppercase;
+    color:rgb(212, 19, 19);
+    bottom: 100px;
+}
+#ph{
+    background-color: grey;
+    
+    height: 80%;
+    border-radius: 8px;
+    float: left;
+}
+#interests{
+    background-color: grey;
+    
+    height:80%;
+    border-radius: 8px;
+    float: right; 
+    
+}
+#caps{
+    background-color: grey;
+    width:80%;
+    height:120px;
+    margin-left: 150px;
+    border-radius: 8px;
+}
+
+#floatleft{
+    float: left;
+    width: 45%;
+}
+
+#floatright{
+    float: right;
+    width: 45%;
+}
+
+#bility{
+    text-align: center;
+}
+#cont{
+    text-align: center;
+    color:red;
+}
+#address{
+    text-align: center;
+}
+#images{
+    float: right;
+}
+#images h3{
+    color: red;
+}
+#png{
+    float: left;
+}
