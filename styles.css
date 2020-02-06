@@ -94,7 +94,6 @@ h2{
 }
 #interests{
     background-color: grey;
-    
     height:80%;
     border-radius: 8px;
     float: right; 
@@ -106,6 +105,7 @@ h2{
     height:120px;
     margin-left: 150px;
     border-radius: 8px;
+    font-size: 22px;
 }
 
 #floatleft{
@@ -136,4 +136,12 @@ h2{
 }
 #png{
     float: left;
+}
+#look{
+    background-color: grey;
+    border-radius: 10px;
+    width:50%;
+    height:50%;
+    text-align: center;
+    margin-left: 400px;
 }
