@@ -1,11 +1,11 @@
-#Project name :Portfolio
-#Author :Odoyo Grace Awino 
-#description
+# Project name :Portfolio
+# Author :Odoyo Grace Awino 
+# description
 it is a portfolio that talks about me,my interests and capabilities.
-#live links
+# live links
 https://odoyoquee.github.io/Cos/ - Malgee Herbal Cosmetics
 https://blaircarson.github.io/Mobile-poilice-and-Online-first-aid/ - Mobile Police and online first aid
-##license
+## license
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.

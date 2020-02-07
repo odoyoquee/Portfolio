@@ -91,21 +91,26 @@ h2{
     height: 80%;
     border-radius: 8px;
     float: left;
+    padding: 10px;
 }
+
+
 #interests{
     background-color: grey;
     height:80%;
     border-radius: 8px;
     float: right; 
+    padding: 10px;
     
 }
 #caps{
     background-color: grey;
-    width:80%;
+    width:98.7%;
     height:120px;
-    margin-left: 150px;
+    
     border-radius: 8px;
     font-size: 22px;
+    padding: 10px;
 }
 
 #floatleft{
@@ -130,12 +135,14 @@ h2{
 }
 #images{
     float: right;
+    margin-right: 30%;
 }
 #images h3{
     color: red;
 }
 #png{
     float: left;
+    margin-left: 20%;
 }
 #look{
     background-color: grey;
@@ -144,4 +151,8 @@ h2{
     height:50%;
     text-align: center;
     margin-left: 400px;
+}
+#name{
+    color: whitesmoke;
+    text-decoration-color: whitesmoke;
 }
